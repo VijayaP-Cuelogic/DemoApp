@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         print("first commit")
         print("second commit")
         print("third commit")
+        print("forth commit")
+        print("fifth commit")
     }
 
  
